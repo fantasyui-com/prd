@@ -1,0 +1,20 @@
+{
+  "name": "prd",
+  "version": "1.0.0",
+  "description": "Product Requirement Document - System for describing, building and shipping online products.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fantasyui-com/prd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fantasyui-com/prd/issues"
+  },
+  "homepage": "https://github.com/fantasyui-com/prd#readme"
+}
