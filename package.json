@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/fantasyui-com/prd/issues"
   },
-  "homepage": "https://github.com/fantasyui-com/prd#readme"
+  "homepage": "https://github.com/fantasyui-com/prd#readme",
+  "dependencies": {
+    "chickpea": "^1.5.0",
+    "civilized": "^1.0.3"
+  }
 }
