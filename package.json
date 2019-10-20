@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/fantasyui-com/prd#readme",
   "dependencies": {
-    "chickpea": "^1.8.0",
+    "chickpea": "^1.9.0",
     "civilized": "^1.2.0"
   }
 }
